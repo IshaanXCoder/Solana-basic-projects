@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+proj-2-voting-dapp/test-ledger/** filter=lfs diff=lfs merge=lfs -text

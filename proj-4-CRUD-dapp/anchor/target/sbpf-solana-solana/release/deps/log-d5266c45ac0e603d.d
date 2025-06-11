@@ -1,0 +1,10 @@
+/Users/ishaan/Developer/learning-shit/solana-bootcamp-24/proj-4-CRUD-dapp/anchor/target/sbpf-solana-solana/release/deps/liblog-d5266c45ac0e603d.rmeta: /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/ishaan/Developer/learning-shit/solana-bootcamp-24/proj-4-CRUD-dapp/anchor/target/sbpf-solana-solana/release/deps/liblog-d5266c45ac0e603d.rlib: /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/ishaan/Developer/learning-shit/solana-bootcamp-24/proj-4-CRUD-dapp/anchor/target/sbpf-solana-solana/release/deps/log-d5266c45ac0e603d.d: /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs:
+/Users/ishaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs:

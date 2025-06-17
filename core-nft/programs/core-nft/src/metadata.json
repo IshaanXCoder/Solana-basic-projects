@@ -1,0 +1,16 @@
+{
+  "name": "Solana Ninja",
+  "symbol": "SNINJA",
+  "description": "A fearless ninja from the blockchain realm.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeibayrvjhtbigsnlk2xcousxgu36aomy3qgecn2atwktgqajc6oute",  
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Elite"
+    }
+  ]
+}

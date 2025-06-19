@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getTweets } from '@/langchain/src/get-tweets';
+import { getTweets } from '..//langchain/src/get-tweets';
 
 export async function POST(req: Request) {
   try {
